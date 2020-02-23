@@ -6,6 +6,19 @@ body
   margin:0;
   background-color:red;
 }
-.header {
-  background-color:floral white;
+
+  .header {
+    background-color: floralwhite;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    font-size: 32px;
+    padding-top: 10px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    padding-bottom: 20px;
+    text-align: center;
+    z-index: 10;
+}
+
 }
