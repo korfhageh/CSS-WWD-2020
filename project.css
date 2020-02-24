@@ -50,6 +50,5 @@ img{
   width:100px;
 }
 account_form {
-  display: flex;
-  align-items: center;
+align-items:center;
 }
