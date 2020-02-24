@@ -23,7 +23,9 @@ h1 {
   border-color:black;
   float:left;
 }
-.nav {margin-top:20px;
+.nav {
+  width:100%;
+  overflow:auto;
 }
   .day-box {
     background-color: lightgray;
