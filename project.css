@@ -51,7 +51,7 @@ img{
 }
 account_form input, .align_form label {
   float:left;
-  clear:right;
+  clear:left;
   display:block;
 
 }
