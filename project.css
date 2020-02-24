@@ -49,6 +49,8 @@ h1 {
 img{
   width:100px;
 }
-account_form {
+account_form input, .align_form label {
+  float:left;
+  clear:right;
 align-items:center;
-}
+
