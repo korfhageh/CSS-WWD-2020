@@ -50,8 +50,7 @@ img{
   width:100px;
 }
 account_form input, .align_form label {
-  float:left;
-  clear:left;
+
   display:block;
 
 }
