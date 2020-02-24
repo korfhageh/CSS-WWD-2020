@@ -21,6 +21,7 @@ h1 {
   border-width:7px;
   border-style:solid;
   border-color:black;
+  float:left;
 }
 .nav {margin-top:20px;
 }
