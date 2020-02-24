@@ -6,7 +6,12 @@ body
   margin:0;
   background-color:red;
 }
-
+.nav a
+{background-color: darkkhaki
+  margin:10px;
+  padding:10px;
+}
+   
   .header {
     background-color: floralwhite;
     top: 0;
