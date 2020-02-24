@@ -20,7 +20,11 @@ h1 {
 }
 .nav {margin-top:20px;
 }
-   
+  .day-box {
+    background-color: floralwhite;
+    margin:10px;
+    padding:10px;
+}
   .header {
     background-color: plum;
     top: 0;
