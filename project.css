@@ -66,8 +66,6 @@ h3 {
 }
 .grade {
   font-size:30px;
-}
-form.account_form {
-  table, th, td {
-    border:2.5px solid black;}
-}
+#desks {
+  background-color: yellow;
+  }
