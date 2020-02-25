@@ -60,3 +60,7 @@ img{
 table, th, td {
   border: 1px solid black;
 }
+h3 {
+  font-family: 'Orbitron';
+  font-size:50px;
+}
