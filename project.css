@@ -28,6 +28,7 @@ h1 {
   overflow:auto;
 }
   .day-box {
+    width: 800px;
     background-color: lightgray;
     margin:10px;
     padding:10px;
@@ -58,14 +59,10 @@ img{
 
 }
 table, th, td {
-  border: 2.5px solid black;
+  border: 5px solid black;
+  font-size: 22px;
 }
 h3 {
   font-family: 'Orbitron';
   font-size:50px;
 }
-.grade {
-  font-size:30px;
-#desks {
-  background-color: yellow;
-  }
